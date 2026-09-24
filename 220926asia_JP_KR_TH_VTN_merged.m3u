@@ -945,6 +945,34 @@ https://akariko-bck2.sankuria.sbs/stream/jp/toei_channel/stream-output.m3u8?ac_t
 https://akariko-bck2.sankuria.sbs/stream/jp/v_paradise_nsfw/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 #EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/weather_news/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_101.png" group-title="JP",Weather News
 https://akariko-bck2.sankuria.sbs/stream/jp/weather_news/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
+#EXTM3U url-tvg="https://jp-epg-26f0ce.gitlab.io/k3v9qm/guide.xml.gz" tvg-shift=0 m3uautoload=1
+#EXTINF:-1 tvg-name="NHK G (Tokyo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JP",NHK G (Tokyo)
+http://67.215.237.218:5002/hdgd01.m3u8?gid=hdgd01&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
+#EXTINF:-1 tvg-name="NHK G (Tokyo) (Alt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JP",NHK G (Tokyo) (Alt)
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-name="NHK E-Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="JP",NHK E-Tele
+http://67.215.237.218:5002/hdgd02.m3u8?gid=hdgd02&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/500px-Nippon_TV_logo_2014.svg.png" group-title="JP",NTV
+http://67.215.237.218:5002/hdgd03.m3u8?gid=hdgd03&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
+#EXTINF:-1 tvg-name="NTV (Alt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/500px-Nippon_TV_logo_2014.svg.png" group-title="JP",NTV (Alt)
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/500px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JP",TBS
+http://67.215.237.218:5002/hdgd04.m3u8?gid=hdgd04&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
+#EXTINF:-1 tvg-name="TBS (Alt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/500px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JP",TBS (Alt)
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fuji_Television_logo.svg/500px-Fuji_Television_logo.svg.png" group-title="JP",Fuji TV
+http://67.215.237.218:5002/hdgd05.m3u8?gid=hdgd05&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
+#EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TV_Asahi_logo.svg/500px-TV_Asahi_logo.svg.png" group-title="JP",TV Asahi
+http://67.215.237.218:5002/hdgd06.m3u8?gid=hdgd06&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
+#EXTINF:-1 tvg-name="TV Asahi (Alt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TV_Asahi_logo.svg/500px-TV_Asahi_logo.svg.png" group-title="JP",TV Asahi (Alt)
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TV_Tokyo_logo_2019.svg/500px-TV_Tokyo_logo_2019.svg.png" group-title="JP",TV Tokyo
+http://67.215.237.218:5002/hdgd07.m3u8?gid=hdgd07&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
+#EXTINF:-1 tvg-name="TV Tokyo (Alt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TV_Tokyo_logo_2019.svg/500px-TV_Tokyo_logo_2019.svg.png" group-title="JP",TV Tokyo (Alt)
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tokyo_MX_logo.svg/500px-Tokyo_MX_logo.svg.png" group-title="JP",TOKYO MX1
+http://67.215.237.218:5002/hdgd08.m3u8?gid=hdgd08&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
+
 
 # ===== 🇰🇷 KR - Korea =====
 #EXTINF:-1 tvg-id="arirang.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/960px-Arirang.svg.png" group-title="KR",Arirang Korea
