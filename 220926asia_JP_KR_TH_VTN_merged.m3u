@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://jp-epg-26f0ce.gitlab.io/guide.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-epg.org/files/epg-kr.xml.gz" url-tvg="https://jp-epg-26f0ce.gitlab.io/guide.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-epg.org/files/epg-kr.xml.gz"
 #PLAYLIST:asia_JP_KR_TH_VTN_updated
 
-# Categories: JP (Japan) → KR (Korea) → TH (Thailand) → VTN (Vietnam) → CN (China)
+# Categories: JP (Japan) → KR (Korea) → TH (Thailand) → CN (China) → VTN (Vietnam) 
 # Updated: 22/09/2026 - Added supplementary channels from KR-JP-Merged (all original channels kept)
 
 # ===== 🇯🇵 JP - Japan =====
