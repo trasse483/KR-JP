@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://jp-epg-26f0ce.gitlab.io/k3v9qm/guide.xml.gz" tvg-shift=0 m3uautoload=1
+#EXTM3U x-tvg-url="https://jp-epg-26f0ce.gitlab.io/guide.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-epg.org/files/epg-kr.xml.gz" url-tvg="https://jp-epg-26f0ce.gitlab.io/guide.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-epg.org/files/epg-kr.xml.gz"
+
 #EXTINF:-1 tvg-name="NHK G (Tokyo)" group-title="JP",NHK G (Tokyo)
 http://67.215.237.218:5002/hdgd01.m3u8?gid=hdgd01&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
 
