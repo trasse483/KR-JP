@@ -133,7 +133,7 @@ http://67.215.237.218:5002/bs22.m3u8?gid=bs22&token=guoziyun&channel=zhongying&u
 http://67.215.237.218:5002/cs13.m3u8?gid=cs13&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
 
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/pb94kIk.png" group-title="JP",Kids Station
-http://67.215.237.218:5002/cs13.m3u8?gid=cs13&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
+http://67.215.237.218:5002/cs07.m3u8?gid=cs07&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
 
 #EXTINF:-1 tvg-id="LaLaTV.jp" tvg-logo="https://i.imgur.com/APBty36.png"group-title="JP",LaLa TV
 http://67.215.237.218:5002/cs19.m3u8?gid=cs19&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
